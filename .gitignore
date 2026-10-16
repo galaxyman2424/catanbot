@@ -1,0 +1,17 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local Catanatron clone (not needed: requirements.txt installs it)
+catanatron/
+
+# Temp file written while saving the champion
+data/*.tmp
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
